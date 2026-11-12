@@ -116,6 +116,17 @@ Also prepared a CEO Management Report containing key findings, business risks, g
 ## 8. Dashboard Preview
 
 ![IndiaKart Power BI Dashboard](images/indiakart_dashboard.png.png)
+
+![Category Performance](images/category_performance.png.png)
+
+
+![Customer Insights](images/customer_insights.png.png)
+
+
+![Operations Overview](images/operations_overview.png.png)
+
+
+![Inventory Alert](images/inventory_alert.png.png)
 <!-- Save the screenshot as images/indiakart_dashboard.png -->
 
 ## 9. Conclusion
